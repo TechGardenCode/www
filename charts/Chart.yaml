@@ -1,0 +1,6 @@
+apiVersion: v2
+name: www-techgarden-gg
+description: A Helm chart for the techgarden.gg application
+type: application
+version: 0.1.0
+appVersion: "sha-7925c18"
